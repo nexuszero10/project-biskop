@@ -15,7 +15,7 @@ html, body {
     box-sizing: border-box;
     background-color: #222831;
     color: #ffffff;
-    font-family: "Roboto";
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
 
 #container {
